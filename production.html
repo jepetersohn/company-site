@@ -1,0 +1,22 @@
+---
+layout: default
+title: Past Productions
+---
+hhhh
+<div class="container">
+  <h2 class="spacing">{{page.title}}</h2>
+
+  <div class="production-productions">
+    {% for post in site.productions %}
+      <div class="production-productions spacing">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="summary">
+          <span class="date">
+            {{ post.date | date: '%B %d, %Y' }}
+          </span>
+        </p>
+        {{ post.excerpt }}
+      </div>
+    {% endfor %}
+  </div>
+</div>
