@@ -111,10 +111,7 @@ GEM
 
 PLATFORMS
   ruby
-<<<<<<< HEAD
-=======
   x64-mingw32
->>>>>>> master
   x86-mingw32
 
 DEPENDENCIES
