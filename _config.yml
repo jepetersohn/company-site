@@ -37,3 +37,7 @@ exclude:
 
 collections:
   productions:
+    output: true
+    permalink: /productions/:path/
+
+
