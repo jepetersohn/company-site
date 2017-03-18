@@ -32,6 +32,8 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - spec/
+  - vendor
 
 collections:
   productions:
