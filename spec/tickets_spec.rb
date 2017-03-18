@@ -3,6 +3,7 @@
 describe "tickets", type: :feature, test: true do
 
 	it "The user can find the tickets button/link" do
+
 		visit "/"
 		expect(page).to have_button "ticket"
 	end
