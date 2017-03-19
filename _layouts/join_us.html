@@ -3,4 +3,31 @@ layout: default
 ---
 <div class="opportunities-post">
   <h1>{{ page.title }}</h1>
+  <b><span> {{ page.dates }} | {{ page.location }}</span></b>
+  {% if type == 'fundraiser' %}
+    <h3>Items Up for Auction: </h3>
+    {% for items_donated in page.items_donated %}
+      {% if items_donated.value %}
+        <span>{{ items_donated.item }}</span>
+        <span>{{ items_donated.attributes }}</span>
+        <span>Thanks to {{ items_donated.donor }}</span>
+      {% else %}
+        <span>{{ items_donated.item }}</span>
+        <span>{{ items_donated.attributes }}</span>
+        <span>Thanks to {{ items_donated.donor }}</span>
+        <span>{{ items_donated.value }}</span>
+      {% end if %}
+    {% endfor %}
+  {% else %}
+    <h3>Special Thanks to our wonderful Volunteers: </h3>
+    {% for volunteers in page.volunteers %}
+      {% if volunteers.name %}
+        <span>{{ volunteers.name }}</span>
+      {% else %}
+        <span>{{ volunteers.name }}</span>
+      {% end if %}
+    {% endfor %}
+  {% endfor %}
+
 </div>
+
