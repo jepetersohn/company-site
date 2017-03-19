@@ -36,8 +36,14 @@ exclude:
   - vendor
 
 collections:
+  company:
+    output: true
+    permalink: /company/:path/
   productions:
     output: true
-    permalink: /productions/:path/
+    permalink: /productions/:path/ 
+  
+
+
 
 

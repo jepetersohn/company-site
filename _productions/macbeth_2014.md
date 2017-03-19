@@ -7,73 +7,73 @@ synopsis: Drawing on her experience as a reporter, and her stint writing for a r
 production:
   - name: Angeli Primlani
     title: Director
-    bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+    bio_url: http://accidentalshakespeare.com/company/angeli_primlani
   - name: Sherry Legare
     title: Producer
-    bio_url: http://accidentalshakespeare.com/about/company/sherry_legare
+    bio_url: http://accidentalshakespeare.com/company/sherry_legare
   - name: Cat Cefalu
     title: Stage Manager
-    bio_url: http://accidentalshakespeare.com/about/company/cat_cefalu
+    bio_url: http://accidentalshakespeare.com/company/cat_cefalu
   - name: Caitlin Aruffo
     title: Sound Designer
-    bio_url: http://accidentalshakespeare.com/about/company/caitlin_aruffo
+    bio_url: 
   - name: Leala Avdich
     title: Marketing/PR
-    bio_url: http://accidentalshakespeare.com/about/company/leala_avdich
+    bio_url: 
   - name: Kate Setzer Kamphausen
     title: Costume Design
-    bio_url: http://accidentalshakespeare.com/about/company/kate_setzer_kamphausen
+    bio_url: 
   - name: Buckman Page
     title: Original Song Contributions
-    bio_url: http://accidentalshakespeare.com/about/company/buckman_page
+    bio_url: 
   - name: H. Russ Brown
     title: Violence Design
-    bio_url: http://accidentalshakespeare.com/about/company/h_russ_brown
+    bio_url: 
   - name: Benjamin Dionysus
     title: Lighting Design
-    bio_url: http://accidentalshakespeare.com/about/company/benjamin_dionysus
+    bio_url: http://accidentalshakespeare.com/company/benjamin_dionysus
   - name: Liz Homsy
     title: Technical Director/Production Assistant
-    bio_url: http://accidentalshakespeare.com/about/company/liz_homsy
+    bio_url: 
   - name: Margaretta Sacco
     title: Properties Design
-    bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
+    bio_url: 
 
 cast:
 - actor: Mary-Kate Arnold
   role: Witch #1/Murderer #1
-  actor_bio_url: http://accidentalshakespeare.com/about/company/marykate_arnold
+  actor_bio_url: 
 - actor: Brian Bradford
   role: Malcolm
-  actor_bio_url: http://accidentalshakespeare.com/about/company/brian_bradford
+  actor_bio_url: 
 - actor: Christie Coran
   role: Witch #3/Murderer #3
-  actor_bio_url: http://accidentalshakespeare.com/about/company/christie_coran
+  actor_bio_url: 
 - actor: Amy Gorelow
   role: Witch #2/Murderer #2
-  actor_bio_url: http://accidentalshakespeare.com/about/company/amy_gorelow
+  actor_bio_url: 
 - actor: Evan Johnson
   role: Banquo/Seyton
-  actor_bio_url: http://accidentalshakespeare.com/about/company/evan_johnson
+  actor_bio_url: 
 - actor: Julia Kessler
   role: Lady Macduff/Gentlewoman/Young Siward
-  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
+  actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
 - actor: Sherry Legare
   role: Lady Macbeth
-  actor_bio_url: http://accidentalshakespeare.com/about/company/sherry_legare
+  actor_bio_url: http://accidentalshakespeare.com/company/sherry_legare
 - actor: Jared McDaris
   role: Duncan/Porter/Old Man/Doctor
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jared_mcdaris
+  actor_bio_url: 
 - actor: Andrew Mehegan
   role: Macbeth
-  actor_bio_url: http://accidentalshakespeare.com/about/company/andrew_mehegan
+  actor_bio_url: 
 - actor: Rocco Renda
   role: Ross
-  actor_bio_url: http://accidentalshakespeare.com/about/company/rocco_renda
+  actor_bio_url: 
 - actor: Julia Rigby
   role: Fleance/Young Macduff/Siward
-  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_rigby
+  actor_bio_url: 
 - actor: Raker Wilson
   role: Macduff
-  actor_bio_url: http://accidentalshakespeare.com/about/company/raker_wilson
+  actor_bio_url: 
 ---

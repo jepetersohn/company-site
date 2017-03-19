@@ -9,33 +9,33 @@ synopsis: One of Shakespeare's greatest plays, Macbeth tells the story of the tr
 production:
   - name: Margaretta Sacco
     title: Director
-    bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
+    bio_url: 
 
 cast:
   - actor: Robert Oaks
     role: Macbeth
-    actor_bio_url: http://accidentalshakespeare.com/about/company/robert_oaks
+    actor_bio_url: 
   - actor: Laura Shatkus
     role: Lady Macbeth
-    actor_bio_url: http://accidentalshakespeare.com/about/company/laura_shatkus
+    actor_bio_url: 
   - actor: Angeli Primlani
     role: Second Witch, Ross, Siward, Seyton
-    actor_bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+    actor_bio_url: http://accidentalshakespeare.com/company/angeli_primlani
   - actor: Jamie Black
     role: Third Murderer, Duncan, Old Man, Porter, Apparition
-    actor_bio_url: http://accidentalshakespeare.com/about/company/jamie_black
+    actor_bio_url: 
   - actor: Christa Sablic
     role: First Murderer, Banquo, Donalblain, Son of Macduff, Apparition
-    actor_bio_url: http://accidentalshakespeare.com/about/company/christa_sablic
+    actor_bio_url: 
   - actor: Ryan Simmons
     role: Second Murderer, Lennox, Fleance, Messenger, Apparition
-    actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_simmons
+    actor_bio_url: 
   - actor: Stacie Swikle
     role: Third Witch, Macduff, Captain, Gentlewoman
-    actor_bio_url: http://accidentalshakespeare.com/about/company/stacie_swikle
+    actor_bio_url: 
   - actor: Julia Kessler
     role: First Witch, Malcolm, Lady Macduff, Doctor
-    actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
+    actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
 ---
 
 

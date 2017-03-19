@@ -9,42 +9,42 @@ synopsis: The King of Navarre and three of his companions vow to avoid the compa
 production:
   - name: Ben Aldred
     title: Director
-    bio_url: http://accidentalshakespeare.com/about/company/ben_aldred
+    bio_url: http://accidentalshakespeare.com/company/ben_aldred
 
 
 cast:
 - actor: Julia Kessler
   role: Princess
-  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
+  actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
 - actor: Jared McDaris
   role: Don Armando
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jared_mcdaris
+  actor_bio_url: 
 - actor: Kelly Lynn Hogan
   role: Maria
-  actor_bio_url: http://accidentalshakespeare.com/about/company/kelly_lynn_hogan
+  actor_bio_url: 
 - actor: Kate Suffern
   role: Rosaline
-  actor_bio_url: http://accidentalshakespeare.com/about/company/kate_suffern
+  actor_bio_url: 
 - actor: Kristie Forsch
   role: Jacquenetta
-  actor_bio_url: http://accidentalshakespeare.com/about/company/kristie_forsch
+  actor_bio_url: 
 - actor: Lane Flores
   role: Moth/Boyet
-  actor_bio_url: http://accidentalshakespeare.com/about/company/lane_flores
+  actor_bio_url: 
 - actor: Richard Alpert
   role: Holofernes
-  actor_bio_url: http://accidentalshakespeare.com/about/company/richard_alpert
+  actor_bio_url: 
 - actor: Ryan Simmons
   role: George Seacoa
-  actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_simmons
+  actor_bio_url: 
 - actor: Eli Branson
   role: Berown
-  actor_bio_url: http://accidentalshakespeare.com/about/company/eli_branson
+  actor_bio_url: 
 - actor: Gary Henderson
   role: Longaville
-  actor_bio_url: http://accidentalshakespeare.com/about/company/gary_henderson
+  actor_bio_url: 
 - actor: Greg Pragel
   role: Costard
-  actor_bio_url: http://accidentalshakespeare.com/about/company/greg_pragel
+  actor_bio_url: 
 
 ---

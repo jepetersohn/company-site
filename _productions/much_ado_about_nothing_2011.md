@@ -9,45 +9,45 @@ synopsis: Benedict and Beatrice hate each other, or are they secretly in love?  
 production:
   - name: Margaretta Sacco
     title: Director
-    bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
+    bio_url: 
 
 cast:
 - actor: Laura Sturm
   role: Beatrice
-  actor_bio_url: http://accidentalshakespeare.com/about/company/laura_sturm
+  actor_bio_url: 
 - actor: Ryan Swinkle
   role: Benedict
-  actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_swinkle
+  actor_bio_url: 
 - actor: Ryan Simmons
   role: Claudio
-  actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_simmons
+  actor_bio_url:
 - actor: Christa Sablic
   role: Hero
-  actor_bio_url: http://accidentalshakespeare.com/about/company/christa_sablic
+  actor_bio_url: 
 - actor: Ryan Simmons
   role: Claudio
-  actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_simmons
+  actor_bio_url: 
 - actor: Benjamin Dionysus
   role: Borachio/Friar Francis
-  actor_bio_url: http://accidentalshakespeare.com/about/company/benjamin_dionysus
+  actor_bio_url: http://accidentalshakespeare.com/company/benjamin_dionysus
 - actor: Angeli Primlani
   role: Balthasar/Messenger/Margaret
-  actor_bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+  actor_bio_url: http://accidentalshakespeare.com/company/angeli_primlani
 - actor: John Amedio
   role: Leonardo/Conrade
-  actor_bio_url: http://accidentalshakespeare.com/about/company/john_amedio
+  actor_bio_url: 
 - actor: Jamie Black
   role: Verges
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jamie_black
+  actor_bio_url:
 - actor: Philip Meyer
   role: Don John
-  actor_bio_url: http://accidentalshakespeare.com/about/company/philip_meyer
+  actor_bio_url: 
 - actor: Julia Kessler
   role: Don Pedro/Sexton
-  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
+  actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
 - actor: Eliza Hoffman
   role: Ursula
-  actor_bio_url: http://accidentalshakespeare.com/about/company/eliza_hoffman
+  actor_bio_url: 
 ---
 
 

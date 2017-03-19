@@ -8,37 +8,37 @@ synopsis: Before there was political correctness, there was Alceste, whose blunt
 production:
   - name: Adrian Balbontin
     title: Director
-    bio_url: http://accidentalshakespeare.com/about/company/adrian_balbontin
+    bio_url: 
 
 cast:
 - actor: Jared McDaris
   role: Alceste
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jared_mcdaris
+  actor_bio_url: 
 - actor: Ryan Czerwonko
   role: Oronte
-  actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_czerwonko
+  actor_bio_url: 
 - actor: Veronica Blaire
   role: Basque
-  actor_bio_url: http://accidentalshakespeare.com/about/company/veronica_blaire
+  actor_bio_url: 
 - actor: Abby Smith
   role: Celimine
-  actor_bio_url: http://accidentalshakespeare.com/about/company/abby_smith
+  actor_bio_url: 
 - actor: Brandon Jeromy
   role: Acaste
-  actor_bio_url: http://accidentalshakespeare.com/about/company/brandon_jeromy
+  actor_bio_url: 
 - actor: Eliza Shin
   role: Arsinoe
-  actor_bio_url: http://accidentalshakespeare.com/about/company/eliza_shin
+  actor_bio_url: 
 - actor: Elyse Edelman
   role: Eliante
-  actor_bio_url: http://accidentalshakespeare.com/about/company/elyse_edelman
+  actor_bio_url: 
 - actor: George Christophert
   role: Clitandre
-  actor_bio_url: http://accidentalshakespeare.com/about/company/george_christophert
+  actor_bio_url: 
 - actor: Jacob Louis Grubb
   role: Philinte
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jacob_louis_grubb
+  actor_bio_url: 
 - actor: Jeff Kurysz
   role: DuBois
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jeff_kurysz
+  actor_bio_url: 
 ---
