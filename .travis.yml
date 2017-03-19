@@ -8,3 +8,4 @@ branches:
   only:
     - master
     - production
+    - s3-deploy-yaml
