@@ -1,10 +1,11 @@
 ---
 layout: production
 title: Overruled - George Bernard Shaw
-dates: April 11, 2014 and September 21, 2014
-location: Mary's Attic and Chief O’Neill’s Pub & Restaurant, Chicago
+dates: April 11, 2014
+location: Mary's Attic, Chicago
 director: Angeli Primlani
 director_bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+synopsis: Two couples taking a holiday from their respective spouses discover that they have accidentally swapped spouses in their adulterous affairs!  Overruled is a funny exploration of the world of marriage.
 cast:
 - actor: Sherry Legare
   role: Mrs. Lunn
