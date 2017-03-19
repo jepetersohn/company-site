@@ -13,7 +13,7 @@ production:
     title: Assistant Director/Musical Director
   - name: Angeli Primlani
     title: Stage Manager
-    bio_url: http://accidentalshakespeare.com/company/angeli_primlani
+    bio_url: /company/angeli_primlani
   - name: Mike Evans, Ryan Swikle, Angeli Primlani, David Hathway
     title: Musicians
   - name: Gary Henderson
@@ -28,7 +28,7 @@ production:
 cast:
 - actor: Julia Kessler
   role: Andrew Aguecheek
-  actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
+  actor_bio_url: /company/julia_kessler
 - actor: Katie Suffern
   role: Viola
 
@@ -52,6 +52,6 @@ cast:
   role: Antonio
 - actor: Sherry Legare
   role: Fabian
-  actor_bio_url: http://accidentalshakespeare.com/company/sherry_legare
+  actor_bio_url: /company/sherry_legare
 
 ---

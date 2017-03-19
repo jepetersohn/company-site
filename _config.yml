@@ -38,7 +38,7 @@ exclude:
 collections:
   company:
     output: true
-    permalink: /company/:path/
+    permalink: /company/:title/
   productions:
     output: true
     permalink: /productions/:path/
