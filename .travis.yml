@@ -8,5 +8,3 @@ branches:
   only:
     - master
     - production
-    - s3-deploy-yaml
-    - s3-staging-test
