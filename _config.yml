@@ -35,7 +35,7 @@ exclude:
   - spec/
   - vendor
 collections:		
- productions:		
- output: true		
- permalink: /productions/:path/
+  productions:		
+  output: true		
+  permalink: /productions/:path/
 
