@@ -12,9 +12,14 @@ layout: default
         <h3>PRODUCTION TEAM:</h3>
         <h4>Director: <a href="{{page.director_bio_url}}">{{page.director}}</a>
         <h4>Cast:</h4>
+
         {% for cast in page.cast %}
-         <a href="{{cast.actor_bio_url}}">{{cast.actor}}</a> as {{cast.role}}
-         <br>
+          {% if cast.actor_bio_url %}
+            <a href="{{cast.actor_bio_url}}">{{cast.actor}}</a> as {{cast.role}}
+          {% else %}
+            {{cast.actor}} as {{cast.role}}
+          {% endif %}
+          <br>
         {% endfor %}
       </div>
   </div>

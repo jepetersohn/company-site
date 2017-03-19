@@ -17,7 +17,6 @@ cast:
     actor_bio_url: http://accidentalshakespeare.com/about/company/taylor_galloway
   - actor: Gary Henderson
     role: Albrecht
-    actor_bio_url: http://accidentalshakespeare.com/about/company/gary_henderson
   - actor: Robert Kaercher
     role: Forrester
     actor_bio_url: http://accidentalshakespeare.com/about/company/robert_kaercher
