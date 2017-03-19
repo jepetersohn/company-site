@@ -15,16 +15,13 @@ production:
     bio_url: http://accidentalshakespeare.com/company/sherry_legare
   - name: Matt Cefalu
     title: Stage Manager/Sound and Properties Design
-    bio_url:
   - name: Benjamin Dionysus
     title: Lighting Design
     bio_url: http://accidentalshakespeare.com/company/benjamin_dionysus
   - name: Kate Setzer Kamphausen
     title: Costume Design
-    bio_url: 
   - name: David Denman
     title: Set Design
-    bio_url: 
 
 cast:
 - actor: Sherry Legare
@@ -35,5 +32,4 @@ cast:
   actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
 - actor: Mary-Ann Arnold
   role: Catherine
-  actor_bio_url: 
 ---

@@ -19,12 +19,9 @@ cast:
   actor_bio_url: http://accidentalshakespeare.com/company/sherry_legare
 - actor: Laurie Lister
   role: Mrs. Juno
-  actor_bio_url: 
 - actor: Chris Aruffo
   role: Mr. Juno
   actor_bio_url: http://accidentalshakespeare.com/company/chris_aruffo
 - actor: Gary Henderson
   role: Mr. Lunn
-  actor_bio_url: 
-
 ---

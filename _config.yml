@@ -41,9 +41,8 @@ collections:
     permalink: /company/:path/
   productions:
     output: true
-    permalink: /productions/:path/ 
-  
-
-
-
+    permalink: /productions/:path/
+  upcoming:
+  reviews:
+  sponsors:
 

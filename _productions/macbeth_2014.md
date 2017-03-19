@@ -16,45 +16,33 @@ production:
     bio_url: http://accidentalshakespeare.com/company/cat_cefalu
   - name: Caitlin Aruffo
     title: Sound Designer
-    bio_url: 
   - name: Leala Avdich
     title: Marketing/PR
-    bio_url: 
   - name: Kate Setzer Kamphausen
     title: Costume Design
-    bio_url: 
   - name: Buckman Page
     title: Original Song Contributions
-    bio_url: 
   - name: H. Russ Brown
     title: Violence Design
-    bio_url: 
   - name: Benjamin Dionysus
     title: Lighting Design
     bio_url: http://accidentalshakespeare.com/company/benjamin_dionysus
   - name: Liz Homsy
     title: Technical Director/Production Assistant
-    bio_url: 
   - name: Margaretta Sacco
     title: Properties Design
-    bio_url: 
 
 cast:
 - actor: Mary-Kate Arnold
   role: Witch #1/Murderer #1
-  actor_bio_url: 
 - actor: Brian Bradford
   role: Malcolm
-  actor_bio_url: 
 - actor: Christie Coran
   role: Witch #3/Murderer #3
-  actor_bio_url: 
 - actor: Amy Gorelow
   role: Witch #2/Murderer #2
-  actor_bio_url: 
 - actor: Evan Johnson
   role: Banquo/Seyton
-  actor_bio_url: 
 - actor: Julia Kessler
   role: Lady Macduff/Gentlewoman/Young Siward
   actor_bio_url: http://accidentalshakespeare.com/company/julia_kessler
@@ -63,17 +51,12 @@ cast:
   actor_bio_url: http://accidentalshakespeare.com/company/sherry_legare
 - actor: Jared McDaris
   role: Duncan/Porter/Old Man/Doctor
-  actor_bio_url: 
 - actor: Andrew Mehegan
   role: Macbeth
-  actor_bio_url: 
 - actor: Rocco Renda
   role: Ross
-  actor_bio_url: 
 - actor: Julia Rigby
   role: Fleance/Young Macduff/Siward
-  actor_bio_url: 
 - actor: Raker Wilson
   role: Macduff
-  actor_bio_url: 
 ---

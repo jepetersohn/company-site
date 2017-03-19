@@ -21,6 +21,10 @@ GEM
     colorator (1.1.0)
     diff-lcs (1.3)
     ffi (1.9.18)
+<<<<<<< HEAD
+=======
+    ffi (1.9.18-x64-mingw32)
+>>>>>>> e3c087077dacd7e7143431c2c52a045a1e6d93d3
     ffi (1.9.18-x86-mingw32)
     forwardable-extended (2.6.0)
     io-like (0.3.0)
@@ -55,6 +59,8 @@ GEM
     minima (2.1.0)
       jekyll (~> 3.3)
     nokogiri (1.7.0.1)
+      mini_portile2 (~> 2.1.0)
+    nokogiri (1.7.0.1-x64-mingw32)
       mini_portile2 (~> 2.1.0)
     nokogiri (1.7.0.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
@@ -92,7 +98,7 @@ GEM
     rubyzip (1.2.1)
     safe_yaml (1.0.4)
     sass (3.4.23)
-    selenium-webdriver (2.53.4)
+    selenium-webdriver (3.3.0)
       childprocess (~> 0.5)
       rubyzip (~> 1.0)
       websocket (~> 1.0)
