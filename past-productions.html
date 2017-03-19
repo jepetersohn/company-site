@@ -2,21 +2,20 @@
 layout: default
 title: Past Productions
 ---
+
 <div class="container">
   <h2 class="spacing">{{page.title}}</h2>
-
   <div class="production-posts">
     {% for post in site.productions %}
       <div class="production-post spacing">
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-          <span class="date">
+        <div class="equalHMV eq"><a href="{{ post.url }}">a</a></div>
 
-            {{ post.dates }}
+        <div class="show-prod-block centered-block" style="background: url({{ post.images.first.url }})">
+          <h1>{{post.title}}</h1>
+          <h2>{{post.dates}}</h2>
+        </div>
 
-          </span>
-        {{ post.excerpt }}
       </div>
     {% endfor %}
   </div>
 </div>
-
