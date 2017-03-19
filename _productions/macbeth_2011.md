@@ -4,9 +4,10 @@ title: Macbeth (staged reading)
 dates: June 11, 2011
 location: Titzal Café, Chicago
 
-director: Margaretta Sacco
-
-director_bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
+production:
+  - name: Margaretta Sacco
+    title: Director
+    bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
 
 cast:
   - actor: Robert Oaks

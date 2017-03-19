@@ -3,10 +3,11 @@ layout: production
 title: Lysistrata (staged reading) - Aristophanes
 dates: September 9, 2012
 location: Titzal Café, Chicago
-
-director: Margaretta Sacco
-
-director_bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
+synopsis: Ever wonder what would happen if women refused to have sex with their men until they stopped going to war? Well, so did the ancient Greeks.
+production:
+  - name: Margaretta Sacco
+    title: Director
+    bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
 
 cast:
 - actor: Angeli Primlani

@@ -3,8 +3,10 @@ layout: production
 title: Much Ado About Nothing (staged reading) - William Shakespeare
 dates: September 25, 2011
 location: Tiztal Café
-director: Margaretta Sacco
-director_bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
+production:
+  - name: Margaretta Sacco
+    title: Director
+    bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
 
 cast:
 - actor: Laura Sturm

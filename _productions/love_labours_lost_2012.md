@@ -3,8 +3,11 @@ layout: production
 title: Love Labour's Lost (staged reading) - William Shakespeare
 dates: January 29, 2011
 location: Titzal Café
-director: Ben Aldred
-director_bio_url: http://accidentalshakespeare.com/company/ben_aldred
+production:
+  - name: Ben Aldred
+    title: Director
+    bio_url: http://accidentalshakespeare.com/about/company/ben_aldred
+
 
 cast:
 - actor: Julia Kessler
