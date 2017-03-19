@@ -4,39 +4,51 @@ layout: default
 <div class="opportunities-post">
   <h1>{{ page.title }}</h1>
   <b><span> {{ page.dates }} | {{ page.location }}</span></b>
-  {% if type == fundraiser %}
+  {% if page.type == 'fundraiser' %}
     <h3>Items Up for Auction: </h3>
     {% for items_donated in page.items_donated %}
       {% if items_donated.value %}
-        <span>{{ items_donated.item }}</span>
-        <span>{{ items_donated.attributes }}</span>
-        <span>Thanks to {{ items_donated.donor }}</span>
+      <ul>
+        <li>{{ items_donated.item }}</li>
+        <li>{{ items_donated.attributes }}</li>
+        <li>Thanks to {{ items_donated.donor }}</li>
+      </ul>
       {% else %}
-        <span>{{ items_donated.item }}</span>
-        <span>{{ items_donated.attributes }}</span>
-        <span>Thanks to {{ items_donated.donor }}</span>
-        <span>{{ items_donated.value }}</span>
+      <ul>
+        <li>{{ items_donated.item }}</li>
+        <li>{{ items_donated.attributes }}</li>
+        <li>Thanks to {{ items_donated.donor }}</li>
+        <li>{{ items_donated.value }}</li>
+      </ul>
       {% endif %}
     {% endfor %}
   {% endif %}
-  {% if type == volunteer %}
+  {% if page.type == 'volunteer' %}
     <h3>Special Thanks to our wonderful Volunteers: </h3>
     {% for volunteers in page.volunteers %}
       {% if volunteers.name %}
-        <span>{{ volunteers.name }}</span>
+      <ul>
+        <li>{{ volunteers.name }}</li>
+      </ul>
       {% else %}
-        <span>Email us with the link below to learn more about volunteer opportunities!</span>
+      <ul>
+        <li>Email us with the link below to learn more about volunteer opportunities!</li>
+      </ul>
       {% endif %}
     {% endfor %}
   {% endif %}
-  {% if type == audition %}
-    <h3>Company Auditions: </h3>
+  {% if page.type == 'audition' %}
+    <h3>Currently Casting: </h3>
     {% for open_roles in page.open_roles %}
       {% if open_roles.attributes %}
-        <span>{{ open_roles.name }}</span>
-        <span>{{ open_roles.attributes }}</span>
+      <ul>
+        <li>{{ open_roles.name }}</li>
+        <li>{{ open_roles.attributes }}</li>
+      </ul>
       {% else %}
-        <span>{{ open_roles.name }}</span>
+      <ul>
+        <li>{{ open_roles.name }}</li>
+      </ul>
       {% endif %}
     {% endfor %}
   {% endif %}

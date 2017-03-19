@@ -1,4 +1,5 @@
----
+<!-- THIS IS A SAMPLE TEMPLATE
+--- 
 layout: join_us
 title: Bake Sale Breakfast
 dates: May 21, 2017
@@ -11,3 +12,4 @@ volunteers:
     phone: 605-212-5556
     hours_working: 7-9
 ---
+-->

@@ -1,4 +1,5 @@
----
+<!-- THIS IS A SAMPLE TEMPLATE
+--- 
 layout: join_us
 title: Crazy Nerdery OWC Silent Auction
 type: fundraiser
@@ -14,3 +15,4 @@ items_donated:
     attributes: Keeps dog from running away
     value: $7
 ---
+-->
