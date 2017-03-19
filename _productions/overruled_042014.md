@@ -22,4 +22,11 @@ cast:
   actor_bio_url: /company/chris_aruffo
 - actor: Gary Henderson
   role: Mr. Lunn
+
+images:
+  - url: /assets/images/IMG_0625.jpg
+  - url: /assets/images/IMG_0656.jpg
+  - url: /assets/images/IMG_0719.jpg
+  - url: /assets/images/IMG_0756.jpg
+  - url: /assets/images/IMG_0743.jpg
 ---

@@ -32,4 +32,11 @@ cast:
   actor_bio_url: /company/julia_kessler
 - actor: Mary-Ann Arnold
   role: Catherine
+
+images:
+  - url: /assets/images/surprisedSherry.jpg
+  - url: /assets/images/IMG_7931.jpg
+  - url: /assets/images/IMG_7945.jpg
+  - url: /assets/images/IMG_7939.jpg
+
 ---

@@ -34,4 +34,11 @@ cast:
   role: Longaville
 - actor: Greg Pragel
   role: Costard
+
+images:
+  - url: /assets/images/LoveLaboursLost_3_ladies.jpg
+  - url: /assets/images/LoveLaboursLost_3guys.jpg
+  - url: /assets/images/LoveLaboursLost_3ladies_cucumber.jpg
+  - url: /assets/images/LoveLaboursLost_Jared_costume.jpg
+  - url: /assets/images/Lovelabourslost_Gary.jpg
 ---
