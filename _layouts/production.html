@@ -9,8 +9,16 @@ layout: default
           </span></b>
         </p>
         {{ page.synopsis }}
-        <h3>PRODUCTION TEAM:</h3>
-        <h4>Director:</h4> <a href="{{page.director_bio_url}}">{{page.director}}</a>
+        <h3>Production Team:</h3>
+        <ul>
+        {% for production in page.production %}
+          {% if production.bio_url %}
+            <li>{{production.title}}: <a href="{{production.bio_url}}">{{production.name}}</a></li>
+          {% else %}
+            <li>{{production.title}}: {{production.name}}</li>
+          {% endif %}
+        {% endfor %}
+        </ul>
         <h4>Cast:</h4>
         <ul>
         {% for cast in page.cast %}
