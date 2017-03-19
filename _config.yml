@@ -47,3 +47,6 @@ collections:
   #   output: true
   #   permalink: /events/:path/
 
+  upcoming:
+  reviews:
+  sponsors:
