@@ -3,44 +3,65 @@ layout: production
 title: The Tempest
 dates: February 16 - March 3, 2013
 location: The Heartland Studio, Chicago
-synopsis: The Tempest is often thought of as a show about endings. It is one of Shakespeare’s last plays and it does deal  with  mortality  and  loss  of  power.  But  it  is  also  a  show  about  beginnings,  the  kind  that  you only get by shucking off the burden of the past and finding freedom in the future. This Alchemy Punk version came about after the founders of The Accidental Shakespeare Company took in a showing of Julie Taymor’s film version of the play
-director: Sherry Legare
 
-director_bio_url: http://accidentalshakespeare.com/about/company/sherry_legare
+synopsis: The Tempest is often thought of as a show about endings. It is one of Shakespeare’s last plays and it does deal  with  mortality  and  loss  of  power.  But  it  is  also  a  show  about  beginnings,  the  kind  that  you only get by shucking off the burden of the past and finding freedom in the future. This Alchemy Punk version came about after the founders of The Accidental Shakespeare Company took in a showing of Julie Taymor’s film version of the play.
+
+production:
+  - name: Sherry Legare
+    title: Producer
+    bio_url: http://accidentalshakespeare.com/about/company/sherry_legare
+  - name: Angeli Primlani
+    title: Director
+    bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+  - name: Adrian Balbontin
+    title: Assistant Director
+  - name: Cat Cefalu
+    title: Stage Manager
+    bio_url: http://accidentalshakespeare.com/about/company/cat_cefalu
+  - name: Patrick Ham
+    title: Scenic Design
+  - name: Kate Setzer Kamphausen
+    title: Costume Design
+  - name: Margaretta Sacco
+    title: Properties Design
+  - name: Benjamin Dionysus
+    title: Lighting Design
+    bio_url: http://accidentalshakespeare.com/about/company/benjamin_dionysus
+  - name: Ashly Dalene
+    title: Movement Design
+  - name: Melissa Schlesinger
+    title: Sound Design/Score
+  - name: Patrick Van Howe
+    title: Scenic Artist
+  - name: John Amedio
+    title: Marketing
+  - name: Jimmy Neenan
+    title: Set Crew
 
 cast:
 - actor: John Amedio
   role: Antonio
-  actor_bio_url: http://accidentalshakespeare.com/about/company/john_amedio
 - actor: Mary-Kate Arnold
   role: Miranda
-  actor_bio_url: http://accidentalshakespeare.com/about/company/marykate_arnold
 - actor: Christopher Aruffo
   role: Prospero
-  actor_bio_url: http://accidentalshakespeare.com/about/company/christopher_aruffo
+  actor_bio_url: http://accidentalshakespeare.com/about/company/chris_aruffo
 - actor: Chris Berghoff
   role: Ferdinand
-  actor_bio_url: http://accidentalshakespeare.com/about/company/chris_berghoff
 - actor: Jamel Booth
   role: Caliban
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jamel_booth
 - actor: Gary Henderson
   role: Trinculo
-  actor_bio_url: http://accidentalshakespeare.com/about/company/gary_henderson
 - actor: Evan Johnson
   role: Sebastian
-  actor_bio_url: http://accidentalshakespeare.com/about/company/evan_johnson
 - actor: Julia Kessler
   role: Gonzalo
   actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
 - actor: Jared McDaris
   role: Ariel
-  actor_bio_url: http://accidentalshakespeare.com/about/company/jared_mcdaris
 - actor: Andrew Mehegan
   role: Stefano
-  actor_bio_url: http://accidentalshakespeare.com/about/company/andrew_mehegan
 - actor: Aaron Wertheim
   role: Alonso
-  actor_bio_url: http://accidentalshakespeare.com/about/company/aaron_wertheim
 
 ---
