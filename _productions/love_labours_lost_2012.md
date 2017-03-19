@@ -5,27 +5,40 @@ dates: January 29, 2011
 location: Titzal Café
 director: Ben Aldred
 director_bio_url: http://accidentalshakespeare.com/company/ben_aldred
+
+cast:
+- actor: Julia Kessler
+  role: Princess
+  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
+- actor: Jared McDaris
+  role: Don Armando
+  actor_bio_url: http://accidentalshakespeare.com/about/company/jared_mcdaris
+- actor: Kelly Lynn Hogan
+  role: Maria
+  actor_bio_url: http://accidentalshakespeare.com/about/company/kelly_lynn_hogan
+- actor: Kate Suffern
+  role: Rosaline
+  actor_bio_url: http://accidentalshakespeare.com/about/company/kate_suffern
+- actor: Kristie Forsch
+  role: Jacquenetta
+  actor_bio_url: http://accidentalshakespeare.com/about/company/kristie_forsch
+- actor: Lane Flores
+  role: Moth/Boyet
+  actor_bio_url: http://accidentalshakespeare.com/about/company/lane_flores
+- actor: Richard Alpert
+  role: Holofernes
+  actor_bio_url: http://accidentalshakespeare.com/about/company/richard_alpert
+- actor: Ryan Simmons
+  role: George Seacoa
+  actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_simmons
+- actor: Eli Branson
+  role: Berown
+  actor_bio_url: http://accidentalshakespeare.com/about/company/eli_branson
+- actor: Gary Henderson
+  role: Longaville
+  actor_bio_url: http://accidentalshakespeare.com/about/company/gary_henderson
+- actor: Greg Pragel
+  role: Costard
+  actor_bio_url: http://accidentalshakespeare.com/about/company/greg_pragel
+
 ---
-
-#### Cast
-[Julia Kessler](http://accidentalshakespeare.com/company/julia_kessler) as **_Princess_**
-
-[Jared McDaris](http://accidentalshakespeare.com/company/jared_mcdaris) as **_Don Armando_**
-
-[Kelly Lynn Hogan](http://accidentalshakespeare.com/company/kelly_lynn_hogan) as **_Maria_**
-
-[Kate Suffern](http://accidentalshakespeare.com/company/kate_suffern)  as **_Rosaline_**
-
-[Kristie Forsch](http://accidentalshakespeare.com/company/kristie_forsch)  as **_Jacquenetta_**
-
-[Lane Flores](http://accidentalshakespeare.com/company/lane_flores) as **_Moth/Boyet_**
-
-[Richard Alpert](http://accidentalshakespeare.com/company/richard_alpert)  as **_Holofernes_**
-
-[Ryan Simmons](http://accidentalshakespeare.com/company/ryan_simmons)  as **_George Seacoal_**
-
-[Eli Branson](http://accidentalshakespeare.com/company/eli_branson) as **_Berown_**
-
-[Gary Henderson](http://accidentalshakespeare.com/company/gary_henderson)  as **_Longaville_**
-
-[Greg Pragel](http://accidentalshakespeare.com/company/greg_pragel) as **_Costard_**

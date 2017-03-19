@@ -8,24 +8,32 @@ director: Margaretta Sacco
 
 director_bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
 
+cast:
+  - actor: Robert Oaks
+    role: Macbeth
+    actor_bio_url: http://accidentalshakespeare.com/about/company/robert_oaks
+  - actor: Laura Shatkus
+    role: Lady Macbeth
+    actor_bio_url: http://accidentalshakespeare.com/about/company/laura_shatkus
+  - actor: Angeli Primlani
+    role: Second Witch, Ross, Siward, Seyton
+    actor_bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+  - actor: Jamie Black
+    role: Third Murderer, Duncan, Old Man, Porter, Apparition
+    actor_bio_url: http://accidentalshakespeare.com/about/company/jamie_black
+  - actor: Christa Sablic
+    role: First Murderer, Banquo, Donalblain, Son of Macduff, Apparition
+    actor_bio_url: http://accidentalshakespeare.com/about/company/christa_sablic
+  - actor: Ryan Simmons
+    role: Second Murderer, Lennox, Fleance, Messenger, Apparition
+    actor_bio_url: http://accidentalshakespeare.com/about/company/ryan_simmons
+  - actor: Stacie Swikle
+    role: Third Witch, Macduff, Captain, Gentlewoman
+    actor_bio_url: http://accidentalshakespeare.com/about/company/stacie_swikle
+  - actor: Julia Kessler
+    role: First Witch, Malcolm, Lady Macduff, Doctor
+    actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
 ---
-
-#### Cast
-[Robert Oaks](http://accidentalshakespeare.com/company/robert_oaks) as **_Macbeth_**
-
-[Laura Shatkus](http://accidentalshakespeare.com/company/laura_shatkus) as **_Lady Macbeth_**
-
-[Angeli Primlani](http://accidentalshakespeare.com/company/angeli_primlani) as **_Second Witch, Ross, Siward, Seyton_**
-
-[Jamie Black](http://accidentalshakespeare.com/company/jamie_black) as **_Third Murderer, Duncan, Old Man, Porter, Apparition_**
-
-[Christa Sablic](http://accidentalshakespeare.com/company/christa_sablic) as **_First Murderer, Banquo, Donalblain, Son of Macduff, Apparition_**
-
-[Ryan Simmons](http://accidentalshakespeare.com/company/ryan_simmons) as **_Second Murderer, Lennox, Fleance, Messenger, Apparition_**
-
-[Stacie Swikle](http://accidentalshakespeare.com/company/stacie_swikle) as **_Third Witch, Macduff, Captain, Gentlewoman_**
-
-[Julia Kessler](http://accidentalshakespeare.com/company/julia_kessler) as **_First Witch, Malcolm, Lady Macduff, Doctor_**
 
 
 
