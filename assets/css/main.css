@@ -25,6 +25,7 @@
 .navbar-links a:hover {
   font-size: 28px;
   transition: .6s;
+  background-color: white !important;
 }
 
 .navbar a {
@@ -43,15 +44,39 @@
   margin-top: 45px;
 }
 
+#menu-button {
+  margin-top: 50px;
+  background-color: black;
+  height: 40px;
+}
+
+.icon-bar {
+  background-color: white;
+}
+
+#bs-navbar-collapse {
+  margin-top: 100px
+}
+
 /*Body*/
 body {
   background-color: white;
 }
+
+/*Donations*/
+
 
 /*Media Queries*/
 @media(max-width: 767px) and (min-width: 610px){
   .shakespeare {
   	margin-top: 20px;
   	margin-left: -212px;
+  }
+}
+
+@media(max-width: 990px) and (min-width: 767px){
+  #bs-navbar-collapse {
+    margin-top: -50px;
+  	margin-right: 80px;
   }
 }
