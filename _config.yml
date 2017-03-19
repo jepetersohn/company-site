@@ -34,6 +34,7 @@ exclude:
   - Gemfile.lock
   - spec/
   - vendor
+  
 collections:		
   productions:		
   output: true		
