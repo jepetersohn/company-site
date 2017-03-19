@@ -8,5 +8,5 @@ before_script:
   - sh -e /etc/init.d/xvfb start
   - sleep 4 # give jekyll some time to start
   - gem install s3_website
-script: jekyll build
+script: bundle exec jekyll build
 after_success: s3_website push
