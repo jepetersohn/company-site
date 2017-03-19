@@ -1,0 +1,216 @@
+/*Navbar*/
+
+.navbar {
+  background-color: white !important;
+  border: none !important;
+}
+
+.container {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+}
+
+.donate-button, .donate-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.donate-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.donate-button-recur {
+  margin-top: 20px;
+  margin-left: 50%;
+}
+
+.logo {
+  display: absolute;
+  z-index: 1;
+  width: 80px;
+  height: 120px;
+  margin-top: -200px;
+  margin-left: 230px;
+}
+
+.navbar-links {
+  font-size: 21px;
+  margin-top: 85px;
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+  transition: .4s;
+}
+
+.navbar-links a:hover {
+  font-size: 28px;
+  transition: .6s;
+  background-color: white !important;
+}
+
+.navbar a {
+  color: black !important;
+}
+
+.header-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 700;
+  font-size: 50px;
+  display: relative;
+
+}
+
+.title {
+  margin-top: 45px;
+}
+
+#menu-button {
+  margin-top: 50px;
+  background-color: black;
+  height: 40px;
+}
+
+.icon-bar {
+  background-color: white;
+}
+
+#bs-navbar-collapse {
+  margin-top: 100px
+}
+
+/*Body*/
+body {
+  background-color: white;
+}
+
+/*Donations*/
+
+
+/*Media Queries*/
+@media(max-width: 767px) and (min-width: 610px){
+  .shakespeare {
+  	margin-top: 20px;
+  	margin-left: -212px;
+  }
+}
+
+@media(max-width: 990px) and (min-width: 767px){
+  #bs-navbar-collapse {
+    margin-top: -50px;
+  	margin-right: 80px;
+  }
+}
+
+#myFooter {
+    padding-top: 30px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+#myFooter .footer-copyright {
+    padding-top: 3px;
+    padding-bottom: 3px;
+    text-align: center;
+}
+
+#myFooter .row {
+    margin-bottom: 20px;
+}
+
+#myFooter .navbar-brand {
+    margin-top: 45px;
+    height: 65px;
+}
+
+#myFooter .footer-copyright p {
+    margin: 10px;
+}
+
+#myFooter ul {
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+#myFooter h5 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+
+#myFooter h2 a{
+    font-size: 50px;
+    text-align: center;
+}
+
+#myFooter a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #666;
+}
+
+#myFooter a:hover,
+#myFooter a:focus {
+    text-decoration: none;
+    color: #000;
+}
+
+#myFooter .social-networks {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#myFooter .social-networks a {
+    font-size: 32px;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+#myFooter .social-networks a:hover {
+    text-decoration: none;
+}
+
+#myFooter .facebook:hover {
+    color: #0077e2;
+}
+
+#myFooter .email:hover {
+    color: #ef1a1a;
+}
+
+#myFooter .twitter:hover {
+    color: #00aced;
+}
+
+#myFooter .btn {
+    color: white;
+    background-color: #d84b6b;
+    border-radius: 20px;
+    border: none;
+    width: 150px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    /*line-height: 25px;*/
+    font-size: 14px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 767px) {
+    #myFooter {
+        text-align: center;
+    }
+}
+
+.footerCol {
+    text-align: center;
+}
+
+.newsletter-input {
+    width: 120px;
+    margin: 4px auto;
+}
+
