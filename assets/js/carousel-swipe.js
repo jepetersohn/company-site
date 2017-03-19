@@ -1,4 +1,5 @@
 $(document).ready(function() {
+  
           //add your other targets here
        $(".carousel").swiperight(function() {
           $(this).carousel('prev');

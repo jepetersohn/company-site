@@ -64,6 +64,13 @@
   text-align: center;
 }
 
+.page-synopsis {
+  padding-top: 30px;
+  font-weight: 700;
+}
+
+
+
 .homepage-title {
   font-size: 60px;
 }
@@ -87,4 +94,17 @@
 
 .block-spacing {
   padding-bottom: 80px;
+}
+
+.production-post ul li {
+  list-style-type: none;
+}
+
+.hide-bullets {
+  list-style-type: none;
+}
+
+.thumbnail {
+  margin-top: 20px;
+  margin-left: -45px;
 }
