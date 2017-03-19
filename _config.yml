@@ -34,6 +34,9 @@ exclude:
   - vendor
 
 collections:
+  company:
+    output: true
+    permalink: /company/:title/
   productions:
     output: true
     permalink: /productions/:path/
@@ -48,3 +51,4 @@ collections:
   upcoming:
   reviews:
   sponsors:
+
