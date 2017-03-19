@@ -6,5 +6,5 @@ location: Titzal Café, Chicago
 
 director: Adrian Balbontin
 
-director_bio_url: http://accidentalshakespeare.com/company/adrian_balbontin
+director_bio_url: http://accidentalshakespeare.com/about/company/adrian_balbontin
 ---

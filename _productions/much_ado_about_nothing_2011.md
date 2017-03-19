@@ -4,7 +4,7 @@ title: Much Ado About Nothing (staged reading)
 dates: September 25, 2011
 location: Tiztal Café
 director: Margaretta Sacco
-director_bio_url: http://accidentalshakespeare.com/company/margaretta_sacco
+director_bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
 ---
 
 #### Cast

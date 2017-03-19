@@ -6,7 +6,7 @@ location: Titzal Café, Chicago
 
 director: Margaretta Sacco
 
-director_bio_url: http://accidentalshakespeare.com/company/margaretta_sacco
+director_bio_url: http://accidentalshakespeare.com/about/company/margaretta_sacco
 
 ---
 
