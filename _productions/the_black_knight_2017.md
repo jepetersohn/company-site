@@ -7,4 +7,21 @@ synopsis: A love story between a Jewish spy and SS Captain of the Intelligence D
 director: Angeli Primlani
 
 director_bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+
+cast:
+  - actor: Chris Aruffo
+    role: Radio Announcer
+    actor_bio_url: http://accidentalshakespeare.com/about/company/chris_aruffo
+  - actor: Taylor Galloway
+    role: Henza, and others
+    actor_bio_url: http://accidentalshakespeare.com/about/company/taylor_galloway
+  - actor: Gary Henderson
+    role: Albrecht
+    actor_bio_url: http://accidentalshakespeare.com/about/company/gary_henderson
+  - actor: Robert Kaercher
+    role: Forrester
+    actor_bio_url: http://accidentalshakespeare.com/about/company/robert_kaercher
+  - actor: Julia Kessler
+    role: Kathi
+    actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
 ---
