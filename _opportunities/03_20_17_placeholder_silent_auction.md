@@ -5,20 +5,12 @@ type: fundraiser
 dates: May 20, 2017
 location: Library, Chicago
 items_donated: 
-  - donor:
-    item:
-    attributes:
-    value: 
-  - donor:
-    item: 
-    attributes:
-    value: 
-
-volunteers:
-  - name: 
-    phone:
-    hours_working:
-  - name: 
-    phone: 
-    hours_working:
+  - donor: Target
+    item: Drone
+    attributes: Flies
+    value: Priceless
+  - donor: Walmart
+    item: Dog Leash
+    attributes: Keeps dog from running away
+    value: $7
 ---

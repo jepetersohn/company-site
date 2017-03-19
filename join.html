@@ -7,29 +7,17 @@ title: Get Involved
   <h3>{{ page.title }}</h3>
 
   <span>
-    <p>Volunteer, Donate or Join us for an upcoming Silent Auction.  Or even look to join our team at one of our upcoming auditions. </p>
-    {% for post in site.opportunities %}
-      <div class="join-opportunities">
-        <h3>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h3>
-        <span>{{ post.date | date: '%B %d, %Y' }}</span>
-        <span>{{ post.location }}</span>
-      </div>
-    {% endfor %}
+    <p>Accidental Shakespeare welcomes submissions at any time throughout the season.</p>
+    <p>If you'd like to join us in creating future performances, feel free to contact us at <a href="mailto:accshakes@gmail.com?subject=Involvement Opportunity Request">accshakes@gmail.com</a>.</p>
+    <p>When needed, we will also post company audition and job openings to the Theater in Chicago and League of Chicago Theater websites.</p>
   </span>
-</div>
-
-<div id="mc_embed_signup">
-  <h4>Reach out to us to find out more: </h4>
-  <form id="mc-embedded-subscribe-form" class="validate" action="//accidentalshakespeare.us8.list-manage.com/subscribe/post?u=62e153225217fde3b5c71b8f9&amp;id=77a38c823e" method="post" name="mc-embedded-subscribe-form" target="_blank">
-    <div id="mc_embed_signup_scroll">
-      <div class="mc-field-group">
-        <input id="mce-EMAIL" class="required email" type="email" name="EMAIL" placeholder="enter email" value="" size="35" />
-        <input id="mc-embedded-subscribe" class="button" type="submit" name="subscribe" value="Subscribe" />
-      </div>
+  {% for post in site.opportunities %}
+    <div class="join-opportunities">
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </h3>
+      <span>{{ post.date | date: '%B %d, %Y' }}</span>
+      <span>{{ post.location }}</span>
     </div>
-  </form>
-
-  <a href="mailto:accshakes@gmail.com?subject=Involvement Opportunity Request">Get Involved</a>
+  {% endfor %}
 </div>

@@ -4,7 +4,7 @@ layout: default
 <div class="opportunities-post">
   <h1>{{ page.title }}</h1>
   <b><span> {{ page.dates }} | {{ page.location }}</span></b>
-  {% if type == 'fundraiser' %}
+  {% if type == fundraiser %}
     <h3>Items Up for Auction: </h3>
     {% for items_donated in page.items_donated %}
       {% if items_donated.value %}
@@ -16,18 +16,31 @@ layout: default
         <span>{{ items_donated.attributes }}</span>
         <span>Thanks to {{ items_donated.donor }}</span>
         <span>{{ items_donated.value }}</span>
-      {% end if %}
+      {% endif %}
     {% endfor %}
-  {% else %}
+  {% endif %}
+  {% if type == volunteer %}
     <h3>Special Thanks to our wonderful Volunteers: </h3>
     {% for volunteers in page.volunteers %}
       {% if volunteers.name %}
         <span>{{ volunteers.name }}</span>
       {% else %}
-        <span>{{ volunteers.name }}</span>
-      {% end if %}
+        <span>Email us with the link below to learn more about volunteer opportunities!</span>
+      {% endif %}
     {% endfor %}
-  {% endfor %}
-
+  {% endif %}
+  {% if type == audition %}
+    <h3>Company Auditions: </h3>
+    {% for open_roles in page.open_roles %}
+      {% if open_roles.attributes %}
+        <span>{{ open_roles.name }}</span>
+        <span>{{ open_roles.attributes }}</span>
+      {% else %}
+        <span>{{ open_roles.name }}</span>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 </div>
+
+{{content}}
 
