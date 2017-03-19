@@ -1,6 +1,6 @@
 ---
 layout: production
-title: Love Labour's Lost (staged reading)
+title: Love Labour's Lost (staged reading) - William Shakespeare
 dates: January 29, 2011
 location: Titzal Café
 director: Ben Aldred

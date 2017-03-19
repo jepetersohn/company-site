@@ -7,4 +7,42 @@ synopsis: Drawing on her experience as a reporter, and her stint writing for a r
 director: Angeli Primlani
 
 director_bio_url: http://accidentalshakespeare.com/about/company/angeli_primlani
+
+cast:
+- actor: Mary-Kate Arnold
+  role: Witch #1/Murderer #1
+  actor_bio_url: http://accidentalshakespeare.com/about/company/marykate_arnold
+- actor: Brian Bradford
+  role: Malcolm
+  actor_bio_url: http://accidentalshakespeare.com/about/company/brian_bradford
+- actor: Christie Coran
+  role: Witch #3/Murderer #3
+  actor_bio_url: http://accidentalshakespeare.com/about/company/christie_coran
+- actor: Amy Gorelow
+  role: Witch #2/Murderer #2
+  actor_bio_url: http://accidentalshakespeare.com/about/company/amy_gorelow
+- actor: Evan Johnson
+  role: Banquo/Seyton
+  actor_bio_url: http://accidentalshakespeare.com/about/company/evan_johnson
+- actor: Julia Kessler
+  role: Lady Macduff/Gentlewoman/Young Siward
+  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_kessler
+- actor: Sherry Legare
+  role: Lady Macbeth
+  actor_bio_url: http://accidentalshakespeare.com/about/company/sherry_legare
+- actor: Jared McDaris
+  role: Duncan/Porter/Old Man/Doctor
+  actor_bio_url: http://accidentalshakespeare.com/about/company/jared_mcdaris
+- actor: Andrew Mehegan
+  role: Macbeth
+  actor_bio_url: http://accidentalshakespeare.com/about/company/andrew_mehegan
+- actor: Rocco Renda
+  role: Ross
+  actor_bio_url: http://accidentalshakespeare.com/about/company/rocco_renda
+- actor: Julia Rigby
+  role: Fleance/Young Macduff/Siward
+  actor_bio_url: http://accidentalshakespeare.com/about/company/julia_rigby
+- actor: Raker Wilson
+  role: Macduff
+  actor_bio_url: http://accidentalshakespeare.com/about/company/raker_wilson
 ---
