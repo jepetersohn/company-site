@@ -34,3 +34,16 @@ exclude:
   - Gemfile.lock
   - spec/
   - vendor
+
+collections:
+  productions:
+    output: true
+    permalink: /productions/:path/
+  
+  opportunities:
+    output: true
+    permalink: /join/:path/
+  # events:
+  #   output: true
+  #   permalink: /events/:path/
+
