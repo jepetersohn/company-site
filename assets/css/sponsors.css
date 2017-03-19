@@ -22,10 +22,16 @@
 	text-align: center;
 }
 
-#sponsor-table {
-	margin: auto;
+#current-sponsors-list {
+  display: -webkit-flex;
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.sponsor-cell {
-	width: 200px;
+#current-sponsors-list li {
+	list-style-type: none;
+  -webkit-flex: none;
+          flex: none;
+  width: 300px;
+  font-size: 16px;
 }
